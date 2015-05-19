@@ -1,4 +1,4 @@
-title: 配置
+title: 西集数据中心WIKI
 ---
 您可以在 `_config.yml` 中修改大部份的配置。
 
@@ -6,18 +6,18 @@ title: 配置
 
 参数 | 描述
 --- | ---
-`title` | 网站标题
-`subtitle` | 网站副标题
-`description` | 网站描述
-`author` | 您的名字
-`language` | 网站使用的语言
+`title` | 西集数据中心WIKI
+`subtitle` | 
+`description` | 
+`author` | BOBO
+`language` | CHS
 `timezone` | 网站时区。Hexo 预设使用您电脑的时区。[时区列表](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones)
 
 ## 网址
 
 参数 | 描述 | 默认值
 --- | --- | ---
-`url` | 网址 |
+`url` | xijidata.com |
 `root` | 网站根目录 |
 `permalink` | 文章的 [永久链接](permalinks.html) 格式 | :year/:month/:day/:title/
 `permalink_default` | 永久链接中各部分的默认值 |
